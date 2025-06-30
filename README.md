@@ -79,12 +79,7 @@ task-tracker/
 
 ---
 
-## 📄 License
+🙌 About Me
+👋 Hi, I'm Mohit Rathwa — passionate about building useful and clean web applications. This project helped me explore frontend-backend integration and API-based development.
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgements
-
-Created as part of a web development showcase for internship applications.
+Check more at: github.com/mohit-rathwa
